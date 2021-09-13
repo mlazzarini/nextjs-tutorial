@@ -1,4 +1,4 @@
-import styles from '../styles/Header.module.css'
+import styles from '@/styles/Header.module.css'
 import Link from 'next/Link'
 
 export default function Header() {
